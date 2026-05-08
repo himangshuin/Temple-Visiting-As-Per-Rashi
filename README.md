@@ -181,11 +181,7 @@ sed -i 's/YOUR-USERNAME/yourusername/g' index.html
 
 # 📚 Data Source & Credits
 
-All temple data, stotra references, and remedy information are sourced exclusively from:
-
-> *Temple Visiting as Remedy*
-> By Shubham Alock Singh (June 2023)
-> From the *Remedies In-Depth Course*
+All temple data, stotra references, and remedy information are sourced exclusively from different sources
 
 Official Websites:
 
